@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:8080/Gestion_UE_VF-1.0-SNAPSHOT/rest/etudiants
+description: ""
+url: http://localhost:8080/Gestion_UE_VF-1.0-SNAPSHOT/rest/etudiants
+method: GET
+order: 1000
